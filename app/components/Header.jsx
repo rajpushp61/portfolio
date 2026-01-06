@@ -14,7 +14,7 @@ function Header() {
       <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'
       >frontend web developer</h1>
       <p className='max-w-2xl mx-auto font-Ovo'>
-        I am a frontend developer from Bihar, India with 2 years of experience in
+        I am a frontend developer from Bihar, India with a year of experience in
         web development. I am passionate about building excellent web pages.
       </p>
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
