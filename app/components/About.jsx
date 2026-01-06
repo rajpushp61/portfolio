@@ -15,7 +15,7 @@ function About() {
         className='w-full rounded-3xl'/>
         </div>
         <div className='flex-1'>
-        <p className='mb-10 max-w-2xl font-Ovo'>I am an experienced Frontend Developer with over a 2 years 
+        <p className='mb-10 max-w-2xl font-Ovo'>I am a Frontend Developer with over a  year
             of professional experience in the IT field.
             Troughout my career,I have had the privilege
             of collaborating with prestigious organizations, like DXC Technology.
