@@ -8,8 +8,7 @@ function Skills() {
       <h4 className='text-center mb-2 text-lg font-Ovo'>Skills</h4>
       <h2 className='text-center  text-5xl font-Ovo'>My Skills</h2>
       <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-        I have handson experience in HTML ,CSS, JAVASCRIPT, REACT JS, NEXT JS,and mant more .
-        I have made projects using appwrite, mongoDb, Clerk etc.
+        I have hands on experience in HTML ,CSS, JAVASCRIPT, REACT JS, NEXT JS,and many more.
       </p>
       <div className='grid grid-cols-1 gap-6 my-10'>
         {serviceData.map(({icon,title,description,link},index)=>(
